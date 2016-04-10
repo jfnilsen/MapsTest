@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MapsTest</string>
+    <string name="delete">Delete</string>
+    <string name="query_location">Do you want to enable locationing services? Accepting will display your location on the map.</string>
+    <string name="change_maptype">Change maptype</string>
+    <string name="normal">Normal</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="hybrid">Hybrid</string>
 </resources>
